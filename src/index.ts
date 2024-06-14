@@ -10,3 +10,4 @@ function sumAge(user1 : User , user2 : User){
 const sum : number = sumAge({name : "kedar" , age : 22} , {name : "kk" , age : 18})
 console.log(sum);
 
+
